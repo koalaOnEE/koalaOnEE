@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on ...
+https://github.com/koalaOnEE/BMWPreordering.git
+- 📫 How to reach me: ...
+Email : clee030@odu.edu
+- 😄 Pronouns: ...
+She/Her
 <!--
 **koalaOnEE/koalaOnEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
